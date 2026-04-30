@@ -1,7 +1,7 @@
 # AI Usage Log
 
-**Project:** JianCha Car Rental Project Phase 2
-**Team:** AraiKorDai
+**Project:** JianCha Car Rental Project Phase 2  
+**Team:** AraiKorDai  
 **AI Tools Used:** Claude AI, Gemini  
 
 ---
